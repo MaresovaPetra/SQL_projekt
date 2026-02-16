@@ -1,0 +1,80 @@
+**Výzkumná otázka 1**
+
+**-*- Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?***
+
+
+
+Analýza ukazuje, že průměrné mzdy ve sledovaném období 2006–2018 celkově vykazují rostoucí trend. Ve většině odvětví dochází k postupnému zvyšování mezd, zejména v závěru sledovaného období.
+
+
+
+Růst však nebyl plynulý ve všech letech ani ve všech odvětvích. Meziroční poklesy byly zaznamenány především v období 2009–2013, tedy v letech následujících po globální finanční krizi.
+
+
+
+Nejvýraznější pokles byl zaznamenán v odvětví peněžnictví a pojišťovnictví v roce 2013 (−4 484 Kč). Významnější poklesy se objevily také v odvětví těžby a dobývání, výroby a rozvodu elektřiny a v profesních, vědeckých a technických činnostech.
+
+
+
+Naopak nejvyšší meziroční nárůst byl zaznamenán v odvětví výroby a rozvodu elektřiny, plynu, tepla a klimatizovaného vzduchu v roce 2008 (+4 284 Kč). Výrazné nárůsty nad 3 000 Kč byly zaznamenány zejména v letech 2008 a 2018.
+
+
+
+Závěrem lze konstatovat, že mzdy ve většině odvětví dlouhodobě rostly, avšak v některých letech došlo k dočasnému poklesu.
+
+
+
+
+
+
+
+**Výzkumná otázka 2**
+
+**-- *Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?***
+
+
+
+Mezi lety 2006 a 2018 vzrostla průměrná mzda z 21 165 Kč na 33 091 Kč. Ve stejném období se zvýšily i ceny sledovaných potravin – cena mléka z 14,4 Kč na 19,8 Kč za litr a cena chleba z 16,1 Kč na 24,2 Kč za kilogram.
+
+
+
+Po přepočtu kupní síly vychází, že v roce **2006** bylo možné z průměrné mzdy koupit přibližně **1 470** litrů mléka a **1 315** kg chleba, zatímco v roce **2018** přibližně **1 671** litrů mléka a **1 367** kg chleba. Kupní síla se tedy ve sledovaném období zvýšila.
+
+
+
+
+
+**Výzkumná otázka 3**
+
+**-- *Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?***
+
+
+
+Nejpomaleji zdražující kategorií ve sledovaném období byl cukr krystalový s průměrným meziročním tempem růstu −1,88 %, což znamená, že jeho cena v průměru mírně klesala. Naopak nejrychleji zdražující kategorií byly papriky s průměrným meziročním růstem 7,30 %.
+
+
+
+
+
+**Výzkumná otázka 4**
+
+**-- *Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?***
+
+
+
+Z výsledků vyplývá, že v žádném sledovaném roce nepřekročil rozdíl mezi meziročním růstem cen potravin a růstem mezd hranici 10 procentních bodů. Nejvyšší rozdíl byl zaznamenán v roce 2013, kdy ceny vzrostly o 5,10 %, zatímco mzdy klesly o 1,56 %, což představuje rozdíl 6,66 p. b.
+
+
+
+
+
+
+
+Výzkumná otázka 5
+
+-- *Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?*
+
+
+
+-- Odpovědi na otázky jsou uloženy v souboru **Tasks\_answer.md**
+
